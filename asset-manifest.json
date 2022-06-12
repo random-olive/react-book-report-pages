@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-book-report-pages/static/css/main.073c9b0a.css",
+    "main.js": "/react-book-report-pages/static/js/main.85135c85.js",
+    "static/js/787.3be02259.chunk.js": "/react-book-report-pages/static/js/787.3be02259.chunk.js",
+    "static/media/logo.svg": "/react-book-report-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-book-report-pages/index.html",
+    "main.073c9b0a.css.map": "/react-book-report-pages/static/css/main.073c9b0a.css.map",
+    "main.85135c85.js.map": "/react-book-report-pages/static/js/main.85135c85.js.map",
+    "787.3be02259.chunk.js.map": "/react-book-report-pages/static/js/787.3be02259.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.85135c85.js"
+  ]
+}
